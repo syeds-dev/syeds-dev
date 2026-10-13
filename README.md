@@ -19,10 +19,16 @@
 
 ---
 
-### 🚀 Open-source project
+### 🚀 Open-source projects
 
-**[WorkspaceHub](https://github.com/syeds-dev/workspace-hub-android)**: a workplace directory app with colleague contacts and meeting-room availability.
-Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Room · Coroutines · unit & UI tests · GitHub Actions CI. *Jetpack Compose version in progress.*
+**WorkspaceHub**: a workplace directory app with colleague contacts and meeting-room availability, built twice to show the same architecture with two UI toolkits.
+
+| Repo | UI | Highlights |
+|---|---|---|
+| **[workspace-hub-compose](https://github.com/syeds-dev/workspace-hub-compose)** | Jetpack Compose · Material 3 | UI layer migrated from XML to Compose with **ViewModels, repositories and models unchanged**; Navigation Compose, stateless screens, Compose UI tests |
+| **[workspace-hub-android](https://github.com/syeds-dev/workspace-hub-android)** | XML Views | Fragments, RecyclerView, Navigation component, ViewBinding |
+
+**Shared stack:** Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Coroutines + StateFlow · unit tests · GitHub Actions CI
 
 ---
 
@@ -84,4 +90,4 @@ Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Room · Coroutines ·
 
 ---
 
-⭐ More open-source Android samples are on the way: Jetpack Compose, secure authentication and ML Kit.
+⭐ More open-source Android samples are on the way: secure authentication and ML Kit.
