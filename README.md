@@ -25,7 +25,7 @@
 
 | Repo | UI | Highlights |
 |---|---|---|
-| **[workspace-hub-compose](https://github.com/syeds-dev/workspace-hub-compose)** | Jetpack Compose · Material 3 | UI layer migrated from XML to Compose, Navigation Compose, stateless screens, Compose UI tests |
+| **[workspace-hub-compose](https://github.com/syeds-dev/workspace-hub-compose)** | Jetpack Compose · Material 3 | UI with Jetpack Compose, Navigation Compose, stateless screens, Compose UI tests |
 | **[workspace-hub-android](https://github.com/syeds-dev/workspace-hub-android)** | XML Views | Fragments, RecyclerView, Navigation component, ViewBinding |
 
 **Shared stack:** Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Coroutines + StateFlow · unit tests · GitHub Actions CI
