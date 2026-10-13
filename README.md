@@ -1,6 +1,6 @@
 # Hi, I'm Syed Subahani 👋
 
-**Senior Android Engineer · 12.5+ years** building secure, scalable mobile apps for banking, fintech, retail and enterprise clients across India, the UK and the UAE.
+**Senior Android Engineer · 12.5+ years in mobile (8.5+ in native Android)** building secure, scalable mobile apps for banking, fintech, retail and enterprise clients across India, the UK and the UAE.
 
 📍 Bangalore, India · Open to Bangalore / Hyderabad / Chennai · Immediate joiner
 📫 syeds.androiddev@gmail.com · [LinkedIn](https://linkedin.com/in/subahani-syed-240bb0112) · [Portfolio](https://syeds.pages.dev)
@@ -41,7 +41,6 @@ Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Room · Coroutines ·
 #### 🏦 ENBD X Mobile Banking: Emirates NBD, Dubai
 *Synechron · Kotlin, Jetpack Compose, Appium*
 - Owned **local & international fund transfers** and **credit-card bill payments**
-- Technical leadership across feature development, code reviews and engineering standards
 - Built Appium automation reaching **up to 98% test coverage** for delivered modules
 
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.emiratesnbd.android)
@@ -61,7 +60,7 @@ Kotlin · MVVM + Clean Architecture · Hilt · Retrofit · Room · Coroutines ·
 [▶ Google Play](https://play.google.com/store/search?q=Virgin%20Money%20Mobile%20Banking&c=apps)
 
 #### 🚆 Mobile Core SDK: Canadian National Railway
-*Mphasis · React Native, NativeScript, Android*
+*Mphasis · React Native, NativeScript · Android & iOS*
 - Built a **reusable cross-platform SDK**: config, connectivity, data/error handling, file, OTP and user services
 - Added **ML Kit** OCR, barcode scanning, image labelling and object detection, plus Mapbox maps and push notifications
 - Raised unit test coverage from **60% to 95%**; owned SDK releases and app integration
