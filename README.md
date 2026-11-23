@@ -21,6 +21,14 @@
 
 ### 🚀 Open-source projects
 
+**AqiBooking**: an air-quality-aware trip booking app. Pick two places (A and B) on Google Maps, see the live AQI at each point, book the trip, and view your monthly booking history.
+
+| Repo | UI | Highlights |
+|---|---|---|
+| **[AqiBooking](https://github.com/syeds-dev/AqiBooking)** | Jetpack Compose · Single Activity | Google Maps SDK, live AQI (AQICN), reverse geocoding (BigDataCloud), debounced and parallel API calls with retry, mock backend via an OkHttp interceptor (switchable with a flag), API keys kept out of git and never logged |
+
+**Stack:** Kotlin · Clean Architecture (domain / data / presentation) · MVVM · Use cases · Hilt · Retrofit + OkHttp · Coroutines + Flow · Navigation Compose
+
 **WorkspaceHub**: a workplace directory app with colleague contacts and meeting-room availability, built twice to show the same architecture with two UI toolkits.
 
 | Repo | UI | Highlights |
