@@ -2,7 +2,7 @@
 
 **Senior Android Engineer · 12.5+ years in mobile (8.5+ in native Android)** building secure, scalable mobile apps for banking, fintech, retail and enterprise clients across India, the UK and the UAE.
 
-📍 Bangalore, India · Open to Bangalore / Hyderabad / Chennai · Immediate joiner
+📍 Bangalore, India · Open to Bangalore / Hyderabad / Chennai / Germany / UAE / UK / Canada / USA · Immediate joiner
 📫 syeds.androiddev@gmail.com · [LinkedIn](https://linkedin.com/in/subahani-syed-240bb0112) · [Portfolio](https://syeds.pages.dev)
 
 ---
